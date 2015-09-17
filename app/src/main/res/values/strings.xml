@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Internetgekkies</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Laurent Van De Menu</string>
+    <string name="drawer_close">Laurent Van De Salu</string>
+</resources>
